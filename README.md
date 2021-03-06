@@ -1,5 +1,7 @@
 # Recombee API Usage Test Project by DATALYTICS
 
+![GIF](https://github.com/manshaw/Datalytics-Recombee/blob/master/public/working.gif)
+
 ## Project has following main files
 
 ### 1. import_into_mysql.js
