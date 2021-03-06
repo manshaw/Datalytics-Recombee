@@ -2,6 +2,8 @@
 
 ![GIF](https://github.com/manshaw/Datalytics-Recombee/blob/master/public/working.gif)
 
+## [Working Video Demo Link](https://drive.google.com/file/d/1Ls-XY2qSqcRkM9Mcg1iS8a_zuQWlWHhy/view?usp=sharing)
+
 ## Project has following main files
 
 ### 1. import_into_mysql.js
